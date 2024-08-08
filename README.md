@@ -1,6 +1,6 @@
 ### Airplane Mode
 
-Manageing airlines
+Manage Frappe Airlines
 
 ### Installation
 

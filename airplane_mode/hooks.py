@@ -1,7 +1,7 @@
 app_name = "airplane_mode"
 app_title = "Airplane Mode"
 app_publisher = "MS"
-app_description = "Manageing airlines"
+app_description = "Manage Frappe Airlines"
 app_email = "mahishahi23@navgurukul.org"
 app_license = "mit"
 # required_apps = []
