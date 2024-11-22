@@ -1,0 +1,1 @@
+<p>Reminder: The flight {{ doc.airplane}} is scheduled to depart in 24 hours! please insure all preparations are in place!</p>
